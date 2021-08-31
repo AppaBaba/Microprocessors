@@ -1,2 +1,2 @@
 # Microprocessors
- Progarmming Microprocessor using singleboard trainers
+ Progarmming Microprocessor in the 70s using singleboard trainers
